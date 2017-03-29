@@ -1,0 +1,17 @@
+{
+  "name": "antoniorojaslearning",
+  "version": "1.0.0",
+  "description": "learning nightwatch",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nightwatch": "^0.3.2",
+    "gulp-nightwatch-headless": "^1.0.4"
+  },
+  "devDependencies": {},
+  "author": "Antonio Rojas",
+  "license": "ISC"
+}
